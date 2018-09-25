@@ -1,0 +1,10 @@
+## Interface: 80000
+## Title:Guildify Community
+## Notes: Notify your communities when you queue for dungeons and gain achievements!
+## SavedVariables:
+## LoadOnDemand: 0
+## DefaultState: enabled
+## Author: Klexidor
+## Version: 8.0.1
+
+core.lua
